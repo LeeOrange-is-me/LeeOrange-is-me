@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🔭 I'm  studying in Nankai University
+🤔 I'm trying to find the right direction for me
 <!--
 **LeeOrange-is-me/LeeOrange-is-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
